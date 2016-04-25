@@ -1,11 +1,18 @@
-EDBOTPROBLEMINTERNET
+EDBOTPROBLEMINTERNET - FOR NETWORK CONNECT
+============================without update============================
+logform: not updated //FEEDBACK
+not updated //https://vk.com/igorshvetsm5
+not updated //https://vk.com/id180041010
+not updated //https://vk.com/id105340630
+not updated //https://vk.com/id311538598
+=============================last version=============================
+logform: KEY //FEEDBACK
 00-FF-B3-1B-91-42-00330-80000-00000-AA376 //https://vk.com/1q_2w
-00331-20020-00000-AA539 //https://vk.com/igorshvetsm5
 00-13-8F-D1-4C-B1-00426-OEM-8992662-00006 //https://vk.com/saynedkler
-00327-60000-00000-AA380 //https://vk.com/id180041010
-00261-50000-00000-AA970 //https://vk.com/id105340630
-00426-292-0000007-85884 //https://vk.com/id311538598
 6C-71-D9-72-F0-A0-00426-OEM-8992662-00497 //http://vk.com/ku__lik
 10-C3-7B-95-CF-CC-00359-OEM-8678956-26222 //https://vk.com/id39948226
 00-1B-FC-6F-23-A7-00331-10000-00001-AA312 //https://vk.com/ricowar
-00-21-85-32-30-63-00426-OEM-8992662-00006//http://m.vk.com/hnsyyy
+00-21-85-32-30-63-00426-OEM-8992662-00006 //http://m.vk.com/hnsyyy
+============================temporary keys============================
+logform: KEY //FEEDBACK //LASTDAY
+===============================END KEYS===============================
