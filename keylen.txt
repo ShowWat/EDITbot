@@ -15,6 +15,7 @@ logform: KEY //FEEDBACK
 00-30-67-59-8A-17-00426-OEM-8992662-00010 //https://vk.com/id49661664
 76456-641-3164966-23881-123-321 //https://vk.com/id359743681
 76455-OEM-0014655-75144-123-321 //https://vk.com/id139709071
+54-A0-50-A9-5D-39-00266-70309-18903-AAOEM //http://vk.com/id172353703
 ===============================temporary keys===============================
 logform: KEY //FEEDBACK //LASTDAY
 XX-XX-XX-XX-XX-XX-XXXXX-XXXXX-XXXXX-XXXXX //https://vk.com/id //xx.xx.xxxx
