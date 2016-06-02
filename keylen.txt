@@ -18,6 +18,7 @@ logform: KEY //FEEDBACK
 54-A0-50-A9-5D-39-00266-70309-18903-AAOEM //http://vk.com/id172353703
 48-5B-39-8E-1B-60-00426-OEM-8992662-00400 //Женя 2 ключ
 B8-EE-65-E5-67-D0-55041-292-0000007-85244 //Андрей 2 ключ
+76456-640-2394127-23914-123-321 //орлов
 ===============================temporary keys===============================
 logform: KEY //FEEDBACK //LASTDAY
 XX-XX-XX-XX-XX-XX-XXXXX-XXXXX-XXXXX-XXXXX //https://vk.com/id //xx.xx.xxxx
