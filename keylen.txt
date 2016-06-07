@@ -20,6 +20,7 @@ logform: KEY //FEEDBACK
 B8-EE-65-E5-67-D0-55041-292-0000007-85244 //Андрей 2 ключ
 76456-640-2394127-23914-123-321 //орлов
 AC-B5-7D-43-FF-85-00327-60000-00000-AA237 //скороходов
+7A-79-19-45-82-DE-00426-OEM-8992662-00400 //насте за сасай
 ===============================temporary keys===============================
 logform: KEY //FEEDBACK //LASTDAY
 XX-XX-XX-XX-XX-XX-XXXXX-XXXXX-XXXXX-XXXXX //https://vk.com/id //xx.xx.xxxx
